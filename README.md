@@ -6,7 +6,7 @@
     <!-- This is Squarespace. --><!-- grape-pufferfish-jbyk -->
 <base href="">
 <meta charset="utf-8" />
-<title>dhruva balram</title>
+<title>Marwan</title>
 <link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/62c4a34bac92db08bcce54fd/52e965aa-4ebc-4ab3-8e8e-62f71765d3f6/favicon.ico?format=100w"/>
 <link rel="canonical" href="/https://marwan-psychic.github.io/"/>
 <meta property="og:site_name" content="Mohammed Marwan"/>
@@ -10590,7 +10590,7 @@
                 >
                   
                     <div class="header-title-text">
-                      <a id="site-title" href="/" data-animation-role="header-element">dhruva balram</a>
+                      <a id="site-title" href="/" data-animation-role="header-element">Marwan</a>
                     </div>
                   
                   
