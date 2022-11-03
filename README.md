@@ -10529,31 +10529,11 @@
       
       
       '
-      style="
-
-
-
-
-
-
-
-
-"
-      data-test="header-inner"
-      >
+      style=" " data-test="header-inner">
       <!-- Background -->
       <div class="header-background theme-bg--primary"></div>
 
-      <div class="header-display-desktop" data-content-field="site-title">
-        
-
-        
-
-        
-
-        
-        
-          
+      <div class="header-display-desktop" data-content-field="site-title"> 
           <!-- Social -->
           
         
@@ -10647,13 +10627,7 @@
         find me
       </a>
     </div>
-  
-  
-  
-
-
-
-                  </nav>
+            </nav>
                 </div>
               </div>
             
@@ -10663,15 +10637,6 @@
           
           <!-- Actions -->
           <div class="header-actions header-actions--right">
-            
-            
-
-            
-
-          
-          
-
-            
             <div class="showOnMobile">
               
             </div>
@@ -10733,15 +10698,8 @@
         
           
           <!-- Title and nav wrapper -->
-          <div class="header-title-nav-wrapper">
-            
-
-            
-
-            
-              
+          <div class="header-title-nav-wrapper">          
               <!-- Title -->
-              
                 <div
                   class="
                     header-title
@@ -10757,9 +10715,7 @@
                   
                 </div>
               
-            
-              
-              <!-- Nav -->
+   <!-- Nav -->
               <div class="header-nav">
                 <div class="header-nav-wrapper">
                   <nav class="header-nav-list">
@@ -10776,12 +10732,6 @@
         mains
       </a>
     </div>
-  
-  
-  
-
-
-  
     <div class="header-nav-item header-nav-item--collection">
       <a
         href="/dessert"
@@ -10791,12 +10741,7 @@
         dessert
       </a>
     </div>
-  
-  
-  
 
-
-  
     <div class="header-nav-item header-nav-item--collection">
       <a
         href="/about"
@@ -10806,12 +10751,6 @@
         about
       </a>
     </div>
-  
-  
-  
-
-
-  
     <div class="header-nav-item header-nav-item--collection">
       <a
         href="/find-me"
@@ -10821,13 +10760,7 @@
         find me
       </a>
     </div>
-  
-  
-  
-
-
-
-                  </nav>
+  </nav>
                 </div>
               </div>
             
@@ -10837,15 +10770,6 @@
           
           <!-- Actions -->
           <div class="header-actions header-actions--right">
-            
-            
-
-            
-
-          
-          
-
-            
             <div class="showOnMobile">
               
             </div>
@@ -11282,7 +11206,7 @@
 
 </style><div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
-<h2 style="text-align:center;white-space:pre-wrap;">writer, editor, creative producer</h2><h3 style="text-align:center;white-space:pre-wrap;">based in london</h3>
+<h2 style="text-align:center;white-space:pre-wrap;"Dakhni rapper, digital content creator and aspiring writer.</h2><h3 style="text-align:center;white-space:pre-wrap;"> from Neelasandra, Bangalore</h3>
 
 
 </div></div></div><div class="fe-block fe-block-c391c4bf06a221445b8d"><div class="sqs-block menu-block sqs-block-menu" data-block-type="18" id="block-c391c4bf06a221445b8d"><div class="sqs-block-content">
