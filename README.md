@@ -1,4 +1,3 @@
-<!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-GB"  >
   <head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -10305,18 +10304,6 @@
             </span>
           </a>
         </div>
-      
-
-      
-
-
-
-
-
-
-
-
-
 <header
   data-test="header"
   id="header"
@@ -11180,13 +11167,8 @@
    
   
      style="min-height: 10vh;" 
-  
-  
 >
   <div class="section-background">
-  
-    
-  
   </div>
   <div
     class="content-wrapper"
@@ -11204,12 +11186,6 @@
       class="content"
       
     >
-      
-      
-      
-      
-      
-      
       <div data-fluid-engine="true"><style>.fe-62c8b08969660d4a47fe6da8 {
   --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
   --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
