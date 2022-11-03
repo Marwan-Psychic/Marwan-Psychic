@@ -11206,7 +11206,7 @@
 
 </style><div class="fluid-engine fe-62c8b08969660d4a47fe6da8"><div class="fe-block fe-block-060b6e1ad5d8fd4e4472"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-060b6e1ad5d8fd4e4472"><div class="sqs-block-content">
 
-<h2 style="text-align:center;white-space:pre-wrap;>"Marwan" </h2>
+<h2 style="text-align:center;white-space:pre-wrap;">"Marwan"</h2>
 <h3 style="text-align:center;white-space:pre-wrap;"> 23-year-old Mohammed Marwan is a Dakhni rapper,
 digital content creator and aspiring writer from
 Neelasandra, Bangalore. He is currently developing a talk
